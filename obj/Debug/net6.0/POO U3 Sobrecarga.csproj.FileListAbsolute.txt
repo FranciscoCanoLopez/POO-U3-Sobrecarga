@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\bin\Debug\net6.0\POO U3 Sobrecarga.exe
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\bin\Debug\net6.0\POO U3 Sobrecarga.deps.json
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\bin\Debug\net6.0\POO U3 Sobrecarga.runtimeconfig.json
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\bin\Debug\net6.0\POO U3 Sobrecarga.dll
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\bin\Debug\net6.0\POO U3 Sobrecarga.pdb
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\obj\Debug\net6.0\POO U3 Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\obj\Debug\net6.0\POO U3 Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\obj\Debug\net6.0\POO U3 Sobrecarga.AssemblyInfo.cs
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\obj\Debug\net6.0\POO U3 Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\obj\Debug\net6.0\POO U3 Sobrecarga.dll
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\obj\Debug\net6.0\refint\POO U3 Sobrecarga.dll
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\obj\Debug\net6.0\POO U3 Sobrecarga.pdb
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\obj\Debug\net6.0\POO U3 Sobrecarga.genruntimeconfig.cache
+C:\Users\DELL\source\repos\POO U3 Sobrecarga\POO U3 Sobrecarga\obj\Debug\net6.0\ref\POO U3 Sobrecarga.dll
